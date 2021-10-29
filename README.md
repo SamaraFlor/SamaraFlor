@@ -7,7 +7,7 @@ Olá!
 
   <a href="https://github.com/SamaraFlor">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SamaraFlor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="top" width="148" height="180" src="https://acegif.com/wp-content/uploads/funny-anime-gif-14.gif">
   
 </div>
   
