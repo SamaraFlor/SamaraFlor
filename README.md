@@ -1,10 +1,9 @@
 Olá!
 
 Atualmente estudo
--Java-SpringBoot
--Angular 
--MySql
+-JavaScript
 -MongoDb
+-Java-SpringBoot
 
 
 <div>
